@@ -1,0 +1,46 @@
+{
+    "coord":
+    {
+        "lon":0,
+        "lat":0
+    },
+    "weather":
+    [
+        {
+            "id":802,
+            "main":"Clouds",
+            "description":"scattered clouds",
+            "icon":"03n"
+        }
+    ],
+    "base":"stations",
+    "main":
+    {
+        "temp":296.995,
+        "pressure":1028.57,
+        "humidity":100,
+        "temp_min":296.995,
+        "temp_max":296.995,
+        "sea_level":1028.72,
+        "grnd_level":1028.57
+    },
+    "wind":
+    {
+        "speed":4.37,
+        "deg":185.003
+    },
+    "clouds":
+    {
+        "all":44
+    },
+    "dt":1502828177,
+    "sys":
+    {
+        "message":0.004,
+        "sunrise":1502776853,
+        "sunset":1502820458
+    },
+    "id":6295630,
+    "name":"Earth",
+    "cod":200
+}
