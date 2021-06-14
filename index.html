@@ -35,14 +35,7 @@ https://templatemo.com/tm-543-breezed
     </head>
     
     <body>
-      <script>
-        $.getJSON('http://api.openweathermap.org/data/2.5/forecast?id=1835848&APPID=b54f6a41b63750ebc120315142d43994&units=metric'
-            ,function(data){
-          var $feelsTemp = data.list[0].main.feels_like;
-          
-          $('.temp').append($feelsTemp + "°C");
-        });
-      </script>
+
     
     <!-- ***** Preloader Start ***** -->
     <div id="preloader">
